@@ -4,4 +4,19 @@
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
 
+# cmake
+CMakeLists.txt
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CPackConfig.cmake
+CPackSourceConfig.cmake
+CTestTestfile.cmake
+DartConfiguration.tcl
+
 .vscode
